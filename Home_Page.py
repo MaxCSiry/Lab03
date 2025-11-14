@@ -24,7 +24,7 @@ Welcome to our Streamlit Web Development Lab03 app! You can navigate between the
 1. **Home Page**: This is the home page 
 2. **chat**: This is the chat bot
 3. **info**: This is where we have our API data and graph
-4.
+4. **TBD**
 
 """)
 
